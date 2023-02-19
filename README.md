@@ -20,4 +20,5 @@ _My name is Iwona Mierzejewska.
 ## 4. Bugs reporting 
 * _[Bug report](https://docs.google.com/spreadsheets/d/17EiWaU9rMqxWLWueae70ncigpOV_Sexu0Aq4yc3YGV8/edit?usp=share_link)_
 * _[Test report](https://docs.google.com/document/d/1XFhdk0StShKBr0pOk9cfHfXyI3ce9fzmO732qFvB1Ys/edit?usp=share_link)_
+* _[Bug report](https://docs.google.com/spreadsheets/d/1wosRaUmmiVkhifE9PtMZua0VE5fBsaMOzOVV7uJndL0/edit?usp=share_link)_
 
