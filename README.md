@@ -9,7 +9,7 @@ _[3. Test cases](https://github.com/iwomie/Portfolio#3-test-cases)_
 _[4. Bugs reporting](https://github.com/iwomie/Portfolio#4-bugs-reporting)_
 
 ## 1. About me 
-_My name is Iwona Mierzejewska._ 
+_My name is Iwona Mierzejewska. Recently, I started thinking about changing my career path and became interested in software testing. Accuracy and attention to detail are some of my qualities that make this job seem to be made for me. I want to develop my skills and became QA._
 ## 2. Tools 
 * _SAP - module SD and FI_
 * _Salesforce_ 
