@@ -1,6 +1,6 @@
 # Portfolio
 # _Table of contents_
-* _1. About me_ 
+* _1. About me (https://github.com/iwomie/Portfolio/blob/main/README.md#1-about-me)_ 
 * _2. Tools_ 
 * _3. Test cases_ 
 * _4. Bugs reporting_
