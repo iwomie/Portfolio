@@ -9,7 +9,7 @@ _[3. Test cases](https://github.com/iwomie/Portfolio#3-test-cases)_
 _[4. Bugs reporting](https://github.com/iwomie/Portfolio#4-bugs-reporting)_
 
 ## 1. About me 
-_My name is Iwona Mierzejewska. 
+_My name is Iwona Mierzejewska._ 
 ## 2. Tools 
 * _SAP - module SD and FI_
 * _Salesforce_ 
