@@ -28,7 +28,7 @@ _My name is Iwona Mierzejewska. Recently, I started thinking about changing my c
 
 _[Bug CPP-7. Report](https://drive.google.com/file/d/1bMh8rMSOlw6a2juILncjxvngIy1fQ8uB/view?usp=share_link)_
 
-_[Bug CPP-7.Attachment](https://drive.google.com/file/d/1Gu-qUXlMzo2M5TTGXZ6X1iP6V6h-v34i/view?usp=share_link)_
+_[Bug CPP-7. Attachment](https://drive.google.com/file/d/1Gu-qUXlMzo2M5TTGXZ6X1iP6V6h-v34i/view?usp=share_link)_
 * Bug CPP-8. 
 
 _[Bug CPP-8. Report](https://drive.google.com/file/d/1tC8tx5DAdh_ziejCCzmh0X9qhnYt05ub/view?usp=share_link)_
