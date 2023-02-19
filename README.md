@@ -8,10 +8,8 @@ _[3. Test cases](https://github.com/iwomie/Portfolio#3-test-cases)_
 
 _[4. Bugs reporting](https://github.com/iwomie/Portfolio#4-bugs-reporting)_
 
-_[5. Reports](https://github.com/iwomie/Portfolio#5-reports)_
-
 ## 1. About me 
 ## 2. Tools 
 ## 3. Test cases 
 ## 4. Bugs reporting 
-## 5. Reports
+
