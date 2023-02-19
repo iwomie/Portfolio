@@ -22,6 +22,7 @@ _My name is Iwona Mierzejewska. Recently, I started thinking about changing my c
 * _[Test report](https://docs.google.com/document/d/1XFhdk0StShKBr0pOk9cfHfXyI3ce9fzmO732qFvB1Ys/edit?usp=share_link)_
 * _[Bug report](https://docs.google.com/spreadsheets/d/1wosRaUmmiVkhifE9PtMZua0VE5fBsaMOzOVV7uJndL0/edit?usp=share_link)_
 * _Bugs reporting in Jira_
+
 _[Bug CPP-7.](https://drive.google.com/file/d/1bMh8rMSOlw6a2juILncjxvngIy1fQ8uB/view?usp=share_link)_
 
 _[Attachment CPP-7.](https://drive.google.com/file/d/1Gu-qUXlMzo2M5TTGXZ6X1iP6V6h-v34i/view?usp=share_link)_
