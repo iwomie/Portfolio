@@ -11,7 +11,7 @@ _[4. Bugs reporting](https://github.com/iwomie/Portfolio#4-bugs-reporting)_
 _[5. Bugs reporting in Jira](https://github.com/iwomie/Portfolio#5-bugs-reporting-in-jira)_
 
 ## 1. About me 
-_My name is Iwona Mierzejewska. Recently, I started thinking about changing my career path and I got interested in software testing. Accuracy and attention to detail are some of my qualities that make this job seem to be made for me. I hope that my willingness to learn and previous work experience help me to become Junior QA._
+_My name is Iwona Mierzejewska. Recently, I started thinking about changing my career path and I got interested in software testing. Accuracy and attention to details are one of my qualities that make this job seem to be made for me. I hope that my willingness to learn and previous work experience help me to become Junior QA._
 ## 2. Tools 
 * _ServiceNow - system changes requests, incidents and bugs management_
 * _SAP - module SD and FI_
