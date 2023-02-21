@@ -16,7 +16,6 @@ _My name is Iwona Mierzejewska. Recently, I started thinking about changing my c
 * _ServiceNow - system changes requests, incidents and bugs management_
 * _SAP - module SD and FI_
 * _Salesforce - Sales Cloud_ 
-* _Jira_
 ## 3. Test cases 
 * _[Test cases](https://docs.google.com/spreadsheets/d/1SGpjxqexbIPE9JSs438MBMgA6geVcO31SISJ9r27u9c/edit?usp=share_link)_
 * _[Test cases](https://docs.google.com/spreadsheets/d/1SRJXk_3-b_ZIS98n5aTPcu99Ty0H--Zjio9blAzJSFs/edit?usp=share_link)_
