@@ -26,7 +26,10 @@ _My name is Iwona Mierzejewska. Recently, I started thinking about changing my c
 
 ### [Aplikacja SwipeTo](https://swipeto.pl)
 * _Bug reporting in Jira_
-CPP-7
+☆ CPP-7
+☆ CPP-8
+☆ CPP-9
+☆ CPP-10
 
 
 
