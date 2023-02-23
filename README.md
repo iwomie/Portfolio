@@ -24,8 +24,7 @@ _My name is Iwona Mierzejewska. Recently, I started thinking about changing my c
 ### [II. Aplikacja Olx](https://olx.pl)
 * _[Bug reporting](https://docs.google.com/spreadsheets/d/1wosRaUmmiVkhifE9PtMZua0VE5fBsaMOzOVV7uJndL0/edit?usp=share_link)_
 
-### [III. Aplikacja SwipeTo](https://swipeto.pl)
-* _Bug reporting in Jira_
+### [III. Aplikacja SwipeTo - Bug reporting in Jira](https://swipeto.pl)
 
 → CPP-7
 
