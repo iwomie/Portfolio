@@ -25,22 +25,21 @@ _My name is Iwona Mierzejewska. Recently, I started thinking about changing my c
 * _[Bug reporting](https://docs.google.com/spreadsheets/d/1wosRaUmmiVkhifE9PtMZua0VE5fBsaMOzOVV7uJndL0/edit?usp=share_link)_
 
 ### [III. SwipeTo App - Bug reporting in Jira](https://swipeto.pl)
-
-→ Bug CPP-7
+* Bug CPP-7
 
 ‧[Report](https://drive.google.com/file/d/1bMh8rMSOlw6a2juILncjxvngIy1fQ8uB/view?usp=share_link)
 
 ‧[Attachment](https://drive.google.com/file/d/1Gu-qUXlMzo2M5TTGXZ6X1iP6V6h-v34i/view?usp=share_link)
 
-→ Bug CPP-8
+* Bug CPP-8
 
 ‧ [Report](https://drive.google.com/file/d/1tC8tx5DAdh_ziejCCzmh0X9qhnYt05ub/view?usp=share_link)
 
-→ Bug CPP-9
+* Bug CPP-9
 
 ‧ [Report](https://drive.google.com/file/d/1EjLSxvLLejcuBZus1iVufGmdZQaUIcOs/view?usp=share_link)
 
-→ Bug CPP-10
+* Bug CPP-10
 
 ‧ [Report](https://drive.google.com/file/d/1OnvDDyPszl5WvpNMkEK0-zCAqT8K7iO_/view?usp=share_link)
 
