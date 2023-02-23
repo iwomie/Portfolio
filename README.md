@@ -1,5 +1,5 @@
 # Portfolio
-# _Table of contents_
+## Table of contents
 _[1. About me](https://github.com/iwomie/Portfolio/blob/main/README.md#1-about-me)_ 
 
 _[2. Tools](https://github.com/iwomie/Portfolio#2-tools)_ 
