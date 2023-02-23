@@ -14,17 +14,17 @@ _My name is Iwona Mierzejewska. Recently, I started thinking about changing my c
 * _Salesforce - Sales Cloud_ 
 * _Jira - bug tracking_
 ## 3. My projects 
-### [Futbol Kolektyw](https://scouts.futbolkolektyw.pl/pl/login?redirected=true)
+### [I. Futbol Kolektyw](https://scouts.futbolkolektyw.pl/pl/login?redirected=true)
 * _[Test cases](https://docs.google.com/spreadsheets/d/1SGpjxqexbIPE9JSs438MBMgA6geVcO31SISJ9r27u9c/edit?usp=share_link)_
 * _[Test cases](https://docs.google.com/spreadsheets/d/1SRJXk_3-b_ZIS98n5aTPcu99Ty0H--Zjio9blAzJSFs/edit?usp=share_link)_
 * _[Tests](https://docs.google.com/spreadsheets/d/18kLK4x-17psdC-EnCq14HQb1uiNIo_uRbaVzS4AVTRo/edit?usp=share_link)_
 * _[Bug reporting](https://docs.google.com/spreadsheets/d/17EiWaU9rMqxWLWueae70ncigpOV_Sexu0Aq4yc3YGV8/edit?usp=share_link)_
 * _[Test report](https://docs.google.com/document/d/1XFhdk0StShKBr0pOk9cfHfXyI3ce9fzmO732qFvB1Ys/edit?usp=share_link)_
 
-### [Aplikacja Olx](https://olx.pl)
+### [II. Aplikacja Olx](https://olx.pl)
 * _[Bug reporting](https://docs.google.com/spreadsheets/d/1wosRaUmmiVkhifE9PtMZua0VE5fBsaMOzOVV7uJndL0/edit?usp=share_link)_
 
-### [Aplikacja SwipeTo](https://swipeto.pl)
+### [III. Aplikacja SwipeTo](https://swipeto.pl)
 * _Bug reporting in Jira_
 
 → CPP-7
