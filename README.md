@@ -21,10 +21,10 @@ _My name is Iwona Mierzejewska. Recently, I started thinking about changing my c
 * _[Bug reporting](https://docs.google.com/spreadsheets/d/17EiWaU9rMqxWLWueae70ncigpOV_Sexu0Aq4yc3YGV8/edit?usp=share_link)_
 * _[Test report](https://docs.google.com/document/d/1XFhdk0StShKBr0pOk9cfHfXyI3ce9fzmO732qFvB1Ys/edit?usp=share_link)_
 
-### [II. Aplikacja Olx](https://olx.pl)
+### [II. Olx App](https://olx.pl)
 * _[Bug reporting](https://docs.google.com/spreadsheets/d/1wosRaUmmiVkhifE9PtMZua0VE5fBsaMOzOVV7uJndL0/edit?usp=share_link)_
 
-### [III. Aplikacja SwipeTo - Bug reporting in Jira](https://swipeto.pl)
+### [III. SwipeTo App - Bug reporting in Jira](https://swipeto.pl)
 
 → CPP-7
 
