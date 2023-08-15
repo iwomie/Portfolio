@@ -2,7 +2,7 @@
 ## Table of contents
 _[1. About me](https://github.com/iwomie/Portfolio/blob/main/README.md#1-about-me)_ 
 
-_[2. Education](
+_[2. Education](https://github.com/iwomie/Portfolio/blob/main/README.md#2-education)_
 
 _[3. Skills](
 
