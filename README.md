@@ -15,6 +15,7 @@ _My name is Iwona Mierzejewska. Recently, I started thinking about changing my c
 * _SAP - SD and FI modules_
 * _Salesforce - Sales Cloud_ 
 * _Jira - bug tracking_
+* _Postman - manual API testing_  
 ## 3. Education
 * _2023.07: INCO Academy Get Into QA_
 * _2023.02: Dare IT Challenge: Zostań Testerem Manualnym_
