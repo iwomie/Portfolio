@@ -6,7 +6,7 @@ _[2. Tools](https://github.com/iwomie/Portfolio#2-tools)_
 
 _[3. Education](
 
-_[4. My projects](https://github.com/iwomie/Portfolio/blob/main/README.md#3-my-projects)_ 
+_[4. My projects](https://github.com/iwomie/Portfolio/blob/main/README.md#4-my-projects)_ 
 
 ## 1. About me 
 _My name is Iwona Mierzejewska. Recently, I started thinking about changing my career path and I got interested in software testing. Accuracy and attention to details are one of my qualities that make this job seem to be made for me. I hope that my willingness to learn and previous work experience help me to become Junior QA._
@@ -15,6 +15,10 @@ _My name is Iwona Mierzejewska. Recently, I started thinking about changing my c
 * _SAP - SD and FI modules_
 * _Salesforce - Sales Cloud_ 
 * _Jira - bug tracking_
+## 3. Education
+* _2023.07: INCO Academy Get Into QA_
+* _2023.02: Dare IT Challenge: Zostań Testerem Manualnym_
+* _2022.05: INCO Academy SprintED: zostań testerką_
 ## 4. My projects 
 ### [I. Futbol Kolektyw](https://scouts.futbolkolektyw.pl/pl/login?redirected=true)
 * _[Test cases](https://docs.google.com/spreadsheets/d/1SGpjxqexbIPE9JSs438MBMgA6geVcO31SISJ9r27u9c/edit?usp=share_link)_
