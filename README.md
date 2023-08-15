@@ -6,7 +6,7 @@ _[2. Education](https://github.com/iwomie/Portfolio/blob/main/README.md#2-educat
 
 _[3. Skills](https://github.com/iwomie/Portfolio/blob/main/README.md#3-skills)_
 
-_[4. Tools](
+_[4. Tools](https://github.com/iwomie/Portfolio/blob/main/README.md#4-tools)_
 
 _[5. My projects](https://github.com/iwomie/Portfolio/blob/main/README.md#4-my-projects)_ 
 
