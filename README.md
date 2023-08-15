@@ -4,7 +4,7 @@ _[1. About me](https://github.com/iwomie/Portfolio/blob/main/README.md#1-about-m
 
 _[2. Tools](https://github.com/iwomie/Portfolio#2-tools)_ 
 
-_[3. Education](
+_[3. Education](https://github.com/iwomie/Portfolio/blob/main/README.md#3-education)_
 
 _[4. My projects](https://github.com/iwomie/Portfolio/blob/main/README.md#4-my-projects)_ 
 
