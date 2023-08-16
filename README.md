@@ -55,6 +55,6 @@ _My name is Iwona Mierzejewska. Recently, I started thinking about changing my c
 ‧ _[Report](https://drive.google.com/file/d/1OnvDDyPszl5WvpNMkEK0-zCAqT8K7iO_/view?usp=share_link)_
 
 ### [IV. Mr Buggy 3](http://mrbuggy.pl/mrbuggy3/)
-* _[Report](https://drive.google.com/file/d/15E_T0rm_oas3ujdJ6On8b3r3oEcFIdRd/view?usp=share_link)_
+* _[Report](https://docs.google.com/spreadsheets/d/1aKS4dX43IgSXSvH8ZFT_8cCjYI_LpPPtotD11kynLFM/edit?usp=share_link)_
 
 
