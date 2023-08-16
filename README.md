@@ -28,7 +28,6 @@ _My name is Iwona Mierzejewska. Recently, I started thinking about changing my c
 * _ServiceNow - system changes requests, incidents and bugs management_
 * _SAP - SD and FI modules_
 * _Salesforce - Sales Cloud_ 
-* _Jira - bug tracking_
 * _Postman - manual API testing_ 
 ## 5. My projects 
 ### [I. Futbol Kolektyw](https://scouts.futbolkolektyw.pl/pl/login?redirected=true)
