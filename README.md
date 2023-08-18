@@ -58,5 +58,5 @@ _My name is Iwona Mierzejewska. Recently, I started thinking about changing my c
 * _[Report](https://docs.google.com/spreadsheets/d/1aKS4dX43IgSXSvH8ZFT_8cCjYI_LpPPtotD11kynLFM/edit?usp=share_link)_
 
 ### [V. Sklep Test](https://skleptest.pl)
-*_[Report](https://docs.google.com/spreadsheets/d/1B-2FrED3w2YJrRyOGMjcE9wqfZ3bJjDtf0s1PI2YShY/edit?usp=sharing)_
+* _[Report](https://docs.google.com/spreadsheets/d/1B-2FrED3w2YJrRyOGMjcE9wqfZ3bJjDtf0s1PI2YShY/edit?usp=sharing)_
 
