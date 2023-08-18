@@ -11,7 +11,7 @@ _[4. Tools](https://github.com/iwomie/Portfolio/blob/main/README.md#4-tools)_
 _[5. My projects](https://github.com/iwomie/Portfolio/blob/main/README.md#5-my-projects)_
 
 ## 1. About me 
-_My name is Iwona Mierzejewska. Recently, I started thinking about changing my career path and I got interested in software testing. Accuracy and attention to details are one of my qualities that make this job seem to be made for me. I hope that my willingness to learn and previous work experience help me to become Junior QA._ 
+_My name is Iwona. Recently, I started thinking about changing my career path and I got interested in software testing. Accuracy and attention to details are one of my qualities that make this job seem to be made for me. I hope that my willingness to learn and previous work experience help me to become Junior QA._ 
 ## 2. Education
 * _2023.07: INCO Academy Get Into QA_
 * _2023.02: Dare IT Challenge: Zostań Testerem Manualnym_
