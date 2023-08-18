@@ -13,7 +13,7 @@ _[5. My projects](https://github.com/iwomie/Portfolio/blob/main/README.md#5-my-p
 ## 1. About me 
 _My name is Iwona. Recently, I started thinking about changing my career path and I got interested in software testing. Accuracy and attention to details are one of my qualities that make this job seem to be made for me. I hope that my willingness to learn and previous work experience help me to become Junior QA._ 
 ## 2. Education
-* _2023.07: INCO Academy Get Into QA_
+* _2023.08: INCO Academy Get Into QA_
 * _2023.02: Dare IT Challenge: Zostań Testerem Manualnym_
 * _2022.05: INCO Academy SprintED: zostań testerką_
 ## 3. Skills
