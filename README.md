@@ -55,7 +55,7 @@ _My name is Iwona. Recently, I started thinking about changing my career path an
 ‧ _[Report](https://drive.google.com/file/d/1OnvDDyPszl5WvpNMkEK0-zCAqT8K7iO_/view?usp=share_link)_
 
 ### [IV. Mr Buggy 3](http://mrbuggy.pl/mrbuggy3/)
-* _[Report](https://docs.google.com/spreadsheets/d/1aKS4dX43IgSXSvH8ZFT_8cCjYI_LpPPtotD11kynLFM/edit?usp=share_link)_
+* _[Report](https://drive.google.com/file/d/1JsKbS_IrYaInRzXatXPyRpMJL-SDv8Z6/view?usp=sharing)_
 
 ### [V. Sklep Test](https://skleptest.pl)
 * _[Report](https://docs.google.com/spreadsheets/d/1B-2FrED3w2YJrRyOGMjcE9wqfZ3bJjDtf0s1PI2YShY/edit?usp=sharing)_
