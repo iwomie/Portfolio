@@ -28,7 +28,6 @@ _My name is Iwona. Recently, I started thinking about changing my career path an
 * _ServiceNow - system changes requests, incidents and bugs management_
 * _SAP - SD and FI modules_
 * _Salesforce - Sales Cloud_ 
-* _Postman - manual API testing_ 
 ## 5. My projects 
 ### [I. Futbol Kolektyw](https://scouts.futbolkolektyw.pl/pl/login?redirected=true)
 * _[Report](https://docs.google.com/spreadsheets/d/1SGpjxqexbIPE9JSs438MBMgA6geVcO31SISJ9r27u9c/edit?usp=sharing)_
