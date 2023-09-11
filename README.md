@@ -20,9 +20,8 @@ _My name is Iwona. Recently, I started thinking about changing my career path an
 * _English_
 * _Bug reporting_
 * _Test cases creation_
-* _Rest API_
 * _SQL_
-* _Accuracy and attention to detail_
+* _Attention to detail_
 * _Teamwork_
 ## 4. Tools 
 * _ServiceNow - system changes requests, incidents and bugs management_
